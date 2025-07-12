@@ -1,0 +1,73 @@
+{
+    "resultCode": "0",
+    "programsCounter": 392,
+    "mostUsedPrograms": [
+        {
+            "programName": "SYNTHETIC_AND_COLOURED",
+            "prPosition": "6",
+            "prCode": "4",
+            "programType": null,
+            "count": 208
+        },
+        {
+            "programName": "DRAIN_SPIN",
+            "prPosition": "7",
+            "prCode": "2",
+            "programType": null,
+            "count": 157
+        },
+        {
+            "programName": "RINSE",
+            "prPosition": "8",
+            "prCode": "5",
+            "programType": null,
+            "count": 17
+        },
+        {
+            "programName": "ECO_40_60_NEW_ENERGY_LABEL",
+            "prPosition": "3",
+            "prCode": "42",
+            "programType": null,
+            "count": 6
+        },
+        {
+            "programName": "ALL_IN_ONE_59",
+            "prPosition": "14",
+            "prCode": "12",
+            "programType": null,
+            "count": 2
+        }
+    ],
+    "temperatureUsage": {
+        "temp0to30": 4,
+        "temp40": 93,
+        "temp60to90": 3
+    },
+    "loadingPercentage": [
+        {
+            "max": "4",
+            "date": "1970-01-01T00:00:00.0Z",
+            "current": "0"
+        },
+        {
+            "max": "4",
+            "date": "1970-01-01T00:00:00.0Z",
+            "current": "0"
+        },
+        {
+            "max": "7",
+            "date": "1970-01-01T00:00:00.0Z",
+            "current": "0"
+        },
+        {
+            "max": "4",
+            "date": "1970-01-01T00:00:00.0Z",
+            "current": "0"
+        },
+        {
+            "max": "7",
+            "date": "1970-01-01T00:00:00.0Z",
+            "current": "0"
+        }
+    ]
+}
